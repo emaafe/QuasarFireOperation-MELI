@@ -1,0 +1,16 @@
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\bin\Debug\netcoreapp2.1\QuasarFireOperation-MELI.deps.json
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\bin\Debug\netcoreapp2.1\QuasarFireOperation-MELI.runtimeconfig.json
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\bin\Debug\netcoreapp2.1\QuasarFireOperation-MELI.runtimeconfig.dev.json
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\bin\Debug\netcoreapp2.1\QuasarFireOperation-MELI.dll
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\bin\Debug\netcoreapp2.1\QuasarFireOperation-MELI.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\obj\Debug\netcoreapp2.1\QuasarFireOperation-MELI.csprojAssemblyReference.cache
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\obj\Debug\netcoreapp2.1\QuasarFireOperation-MELI.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\obj\Debug\netcoreapp2.1\QuasarFireOperation-MELI.RazorAssemblyInfo.cache
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\obj\Debug\netcoreapp2.1\QuasarFireOperation-MELI.RazorAssemblyInfo.cs
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\obj\Debug\netcoreapp2.1\QuasarFireOperation-MELI.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\obj\Debug\netcoreapp2.1\QuasarFireOperation-MELI.AssemblyInfo.cs
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\obj\Debug\netcoreapp2.1\QuasarFireOperation-MELI.RazorTargetAssemblyInfo.cache
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\obj\Debug\netcoreapp2.1\QuasarFireOperation-MELI.dll
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\obj\Debug\netcoreapp2.1\QuasarFireOperation-MELI.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\obj\Debug\netcoreapp2.1\QuasarFireOperation_MELI.Properties.Resources.resources
+C:\Users\Emanuel\Documents\Visual Studio 2017\Projects\QuasarFireOperation-MELI\QuasarFireOperation-MELI\obj\Debug\netcoreapp2.1\QuasarFireOperation-MELI.csproj.GenerateResource.cache
