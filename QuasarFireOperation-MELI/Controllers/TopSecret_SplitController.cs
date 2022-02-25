@@ -20,7 +20,7 @@ namespace QuasarFireOperation_MELI.Controllers
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(string))]
         public IActionResult Get([FromQuery] string satellite_name)
         {
-            if (!arrSatellite.Contains(satellite_name))
+            if (!arrSatellite.Contains(satellite_name.ToLower()))
                 return NotFound();
 
             SatelliteService satService = new SatelliteService();
@@ -40,7 +40,7 @@ namespace QuasarFireOperation_MELI.Controllers
         public IActionResult Post(string satellite_name, [FromBody] dynamic satData = null)
         {
             
-            if (satData == null || !arrSatellite.Contains(satellite_name))
+            if (satData == null || !arrSatellite.Contains(satellite_name.ToLower()))
                 return NotFound();
 
             SatelliteService satService = new SatelliteService();
